@@ -1,0 +1,817 @@
+
+Started: Thursday, 24 June 2021 at 09:22:28
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+/AgencyFB-Bold
+/AgencyFB-Reg
+/AkhbarMT
+/AkhbarMT-Bold
+/Algerian
+/BookAntiqua-Bold
+/BookAntiqua-BoldItalic
+/BookAntiqua-Italic
+/AGA-Arabesque
+/AGA-ArabesqueDesktop
+/ArialMT
+/Arial-BoldMT
+/Arial-BoldItalicMT
+/Arial-ItalicMT
+/ArialNarrow
+/ArialNarrow-Bold
+/ArialNarrow-BoldItalic
+/ArialNarrow-Italic
+/Arial-Black
+/ArialRoundedMTBold
+/Bahnschrift
+/BaskOldFace
+/Bauhaus93
+/BellMT
+/BellMTBold
+/BellMTItalic
+/BernardMT-Condensed
+/BookAntiqua
+/BoldItalicArt
+/BodoniMT-Bold
+/BodoniMT-BoldItalic
+/BodoniMTBlack-Italic
+/BodoniMTBlack
+/BodoniMTCondensed-Bold
+/BodoniMTCondensed-BoldItalic
+/BodoniMTCondensed-Italic
+/BodoniMTCondensed
+/BodoniMT-Italic
+/BodoniMTPosterCompressed
+/BodoniMT
+/BookmanOldStyle
+/BookmanOldStyle-Bold
+/BookmanOldStyle-BoldItalic
+/BookmanOldStyle-Italic
+/BradleyHandITC
+/BritannicBold
+/BerlinSansFB-Bold
+/BerlinSansFBDemi-Bold
+/BerlinSansFB-Reg
+/Broadway
+/BrushScriptMT
+/BookshelfSymbolSeven
+/Calibri
+/Calibri-Bold
+/Calibri-Italic
+/Calibri-Light
+/Calibri-LightItalic
+/Calibri-BoldItalic
+/CalifornianFB-Bold
+/CalifornianFB-Italic
+/CalifornianFB-Reg
+/CalistoMT
+/CalisMTBol
+/CalistoMT-BoldItalic
+/CalistoMT-Italic
+/Cambria
+/CambriaMath
+/Cambria-Bold
+/Cambria-Italic
+/Cambria-BoldItalic
+/Candara
+/Candara-Bold
+/Candara-Italic
+/Candara-Light
+/Candara-LightItalic
+/Candara-BoldItalic
+/Castellar
+/CenturySchoolbook
+/Centaur
+/Century
+/Chiller-Regular
+/ColonnaMT
+/ComicSansMS
+/ComicSansMS-Bold
+/ComicSansMS-Italic
+/ComicSansMS-BoldItalic
+/Consolas
+/Consolas-Bold
+/Consolas-Italic
+/Consolas-BoldItalic
+/Constantia
+/Constantia-Bold
+/Constantia-Italic
+/Constantia-BoldItalic
+/CooperBlack
+/CopperplateGothic-Bold
+/CopperplateGothic-Light
+/Corbel
+/Corbel-Bold
+/Corbel-Italic
+/CorbelLight
+/CorbelLight-Italic
+/Corbel-BoldItalic
+/CourierNewPSMT
+/CourierNewPS-BoldMT
+/CourierNewPS-BoldItalicMT
+/CourierNewPS-ItalicMT
+/CurlzMT
+/DiwaniBent
+/DiwaniLetter
+/DecoTypeThuluth
+/DecoTypeNaskh
+/DecoTypeNaskhSpecial
+/DecoTypeNaskhVariants
+/DecoTypeNaskhExtensions
+/DecoTypeNaskhSwashes
+/Dubai-Bold
+/Dubai-Light
+/Dubai-Medium
+/Dubai-Regular
+/DiwaniOutlineShaded
+/DiwaniSimpleOutline2
+/DiwaniSimpleOutline
+/DiwaniSimpleStriped
+/Ebrima
+/Ebrima-Bold
+/Elephant-Regular
+/Elephant-Italic
+/EngraversMT
+/ErasITC-Bold
+/ErasITC-Demi
+/ErasITC-Light
+/ErasITC-Medium
+/FelixTitlingMT
+/ForteMT
+/FranklinGothic-Book
+/FranklinGothic-BookItalic
+/FranklinGothic-Demi
+/FranklinGothic-DemiCond
+/FranklinGothic-DemiItalic
+/FranklinGothic-Heavy
+/FranklinGothic-HeavyItalic
+/FranklinGothic-Medium
+/FranklinGothic-MediumCond
+/FranklinGothic-MediumItalic
+/FreestyleScript-Regular
+/FrenchScriptMT
+/FarsiSimpleBold
+/FarsiSimpleOutline
+/FootlightMTLight
+/Gabriola
+/Gadugi
+/Gadugi-Bold
+/Garamond
+/Garamond-Bold
+/Garamond-Italic
+/Georgia
+/Georgia-Bold
+/Georgia-Italic
+/Georgia-BoldItalic
+/Gigi-Regular
+/GillSansMT-BoldItalic
+/GillSansMT-Bold
+/GillSansMT-Condensed
+/GillSansMT-Italic
+/GillSans-UltraBoldCondensed
+/GillSans-UltraBold
+/GillSansMT
+/GloucesterMT-ExtraCondensed
+/GillSansMT-ExtraCondensedBold
+/CenturyGothic
+/CenturyGothic-Bold
+/CenturyGothic-BoldItalic
+/CenturyGothic-Italic
+/GoudyOldStyleT-Regular
+/GoudyOldStyleT-Bold
+/GoudyOldStyleT-Italic
+/GoudyStout
+/HarlowSolid
+/Harrington
+/Haettenschweiler
+/MicrosoftHimalaya
+/HoloLensMDL2Assets
+/HighTowerText-Reg
+/HighTowerText-Italic
+/Impact
+/ImprintMT-Shadow
+/InformalRoman-Regular
+/InkFree
+/BlackadderITC-Regular
+/EdwardianScriptITC
+/KristenITC-Regular
+/ItalicOutlineArt
+/JavaneseText
+/Jokerman-Regular
+/JuiceITC-Regular
+/KufiExtendedOutline
+/KufiOutlineShaded
+/MonotypeKoufi-Bold
+/KunstlerScript
+/LatinWide
+/LucidaBright
+/LucidaBright-Demi
+/LucidaBright-DemiItalic
+/LucidaBright-Italic
+/LucidaCalligraphy-Italic
+/LedItalicFont
+/LeelawadeeUI-Bold
+/Leelawadee
+/LeelawadeeBold
+/Leelawadee-Bold
+/LeelawadeeUI
+/LeelawadeeUI-Semilight
+/LucidaFax
+/LucidaFax-Demi
+/LucidaFax-DemiItalic
+/LucidaFax-Italic
+/LucidaHandwriting-Italic
+/LucidaSans
+/LucidaSans-Demi
+/LucidaSans-DemiItalic
+/LucidaSans-Italic
+/LucidaSans-Typewriter
+/LucidaSans-TypewriterBold
+/LucidaSans-TypewriterBoldOblique
+/LucidaSans-TypewriterOblique
+/LucidaConsole
+/LucidaSansUnicode
+/Magneto-Bold
+/MaiandraGD-Regular
+/MalgunGothic
+/MalgunGothicBold
+/MalgunGothic-Semilight
+/Marlett
+/MaturaMTScriptCapitals
+/MicrosoftSansSerif
+/MingLiU-ExtB
+/PMingLiU-ExtB
+/Ming-Lt-HKSCS-ExtB
+/Mistral
+/MyanmarText
+/MyanmarText-Bold
+/Modern-Regular
+/MongolianBaiti
+/MS-Gothic
+/MS-UIGothic
+/MS-PGothic
+/MicrosoftJhengHeiRegular
+/MicrosoftJhengHeiUIRegular
+/MicrosoftJhengHeiBold
+/MicrosoftJhengHeiUIBold
+/MicrosoftJhengHeiLight
+/MicrosoftJhengHeiUILight
+/MicrosoftUighur-Bold
+/MicrosoftUighur
+/MicrosoftYaHei
+/MicrosoftYaHeiUI
+/MicrosoftYaHei-Bold
+/MicrosoftYaHeiUI-Bold
+/MicrosoftYaHeiLight
+/MicrosoftYaHeiUILight
+/Microsoft-Yi-Baiti
+/MonotypeCorsiva
+/MT-Extra
+/MudirMT
+/MVBoli
+/NiagaraEngraved-Reg
+/NiagaraSolid-Reg
+/NirmalaUI
+/NirmalaUI-Bold
+/NirmalaUI-Semilight
+/MicrosoftNewTaiLue
+/MicrosoftNewTaiLue-Bold
+/OCRAExtended
+/OldAnticBold
+/OldAnticDecorative
+/OldAnticOutline
+/OldEnglishTextMT
+/OldAnticOutlineShaded
+/Onyx
+/MSOutlook
+/PalatinoLinotype-Roman
+/PalatinoLinotype-Bold
+/PalatinoLinotype-BoldItalic
+/PalatinoLinotype-Italic
+/PalaceScriptMT
+/Papyrus-Regular
+/Parchment-Regular
+/Perpetua-BoldItalic
+/Perpetua-Bold
+/Perpetua-Italic
+/PerpetuaTitlingMT-Bold
+/PerpetuaTitlingMT-Light
+/Perpetua
+/MicrosoftPhagsPa
+/MicrosoftPhagsPa-Bold
+/Playbill
+/PoorRichard-Regular
+/Pristina-Regular
+/PTBoldArch
+/PTBoldBroken
+/PTBoldDusky
+/PTBoldHeading
+/PTBoldMirror
+/PTBoldStars
+/PTSeparatedBaloon
+/RageItalic
+/Ravie
+/MSReferenceSansSerif
+/MSReferenceSpecialty
+/Roboto-Black
+/Roboto-BlackItalic
+/Roboto-Bold
+/Roboto-BoldItalic
+/Roboto-Italic
+/Roboto-Light
+/Roboto-LightItalic
+/Roboto-Medium
+/Roboto-MediumItalic
+/Roboto-Regular
+/Roboto-Thin
+/Roboto-ThinItalic
+/RobotoCondensed-Bold
+/RobotoCondensed-BoldItalic
+/RobotoCondensed-Italic
+/RobotoCondensed-Light
+/RobotoCondensed-LightItalic
+/RobotoCondensed-Regular
+/Rockwell-CondensedBold
+/Rockwell-Condensed
+/Rockwell
+/Rockwell-Bold
+/Rockwell-BoldItalic
+/Rockwell-ExtraBold
+/Rockwell-Italic
+/CenturySchoolbook-Bold
+/CenturySchoolbook-BoldItalic
+/CenturySchoolbook-Italic
+/ScriptMTBold
+/SegoeMDL2Assets
+/SegoePrint
+/SegoePrint-Bold
+/SegoeScript
+/SegoeScript-Bold
+/SegoeUI
+/SegoeUI-Bold
+/SegoeUI-Italic
+/SegoeUI-Light
+/SegoeUI-Semilight
+/SegoeUI-BoldItalic
+/SegoeUIBlack
+/SegoeUIBlack-Italic
+/SegoeUIEmoji
+/SegoeUIHistoric
+/SegoeUI-LightItalic
+/SegoeUI-Semibold
+/SegoeUI-SemiboldItalic
+/SegoeUI-SemilightItalic
+/SegoeUISymbol
+/ShowcardGothic-Reg
+/SimSun
+/NSimSun
+/SimSun-ExtB
+/SitkaSmall
+/SitkaText
+/SitkaSubheading
+/SitkaHeading
+/SitkaDisplay
+/SitkaBanner
+/SitkaSmall-Bold
+/SitkaText-Bold
+/SitkaSubheading-Bold
+/SitkaHeading-Bold
+/SitkaDisplay-Bold
+/SitkaBanner-Bold
+/SitkaSmall-Italic
+/SitkaText-Italic
+/SitkaSubheading-Italic
+/SitkaHeading-Italic
+/SitkaDisplay-Italic
+/SitkaBanner-Italic
+/SitkaSmall-BoldItalic
+/SitkaText-BoldItalic
+/SitkaSubheading-BoldItalic
+/SitkaHeading-BoldItalic
+/SitkaDisplay-BoldItalic
+/SitkaBanner-BoldItalic
+/SnapITC-Regular
+/SimpleBoldJutOut
+/PTSimpleBoldRuled
+/SimpleIndustOutline
+/SimpleIndustShaded
+/SimpleOutlinePat
+/Stencil
+/Sylfaen
+/SymbolMT
+/Tahoma
+/Tahoma-Bold
+/MicrosoftTaiLe
+/MicrosoftTaiLe-Bold
+/TwCenMT-BoldItalic
+/TwCenMT-Bold
+/TwCenMT-CondensedBold
+/TwCenMT-CondensedExtraBold
+/TwCenMT-Condensed
+/TwCenMT-Italic
+/TwCenMT-Regular
+/TempusSansITC
+/TimesNewRomanPSMT
+/TimesNewRomanPS-BoldMT
+/TimesNewRomanPS-BoldItalicMT
+/TimesNewRomanPS-ItalicMT
+/TrebuchetMS
+/TrebuchetMS-Bold
+/Trebuchet-BoldItalic
+/TrebuchetMS-Italic
+/Verdana
+/Verdana-Bold
+/Verdana-Italic
+/Verdana-BoldItalic
+/VinerHandITC
+/Vivaldii
+/VladimirScript
+/Webdings
+/Wingdings-Regular
+/Wingdings2
+/Wingdings3
+/WTGothic-Bold
+/WTGothic-BoldItalic
+/WTGothic-Light
+/WTGothic-LightItalic
+/WTGothic-Medium
+/WTGothic-MediumItalic
+/WTGothic-Regular
+/WTGothic-RegularItalic
+/WTGothic-Semi-Bold
+/WTGothic-Semi-BoldItalic
+/WTGothic
+/YuGothic-Bold
+/YuGothicUI-Bold
+/YuGothicUI-Semibold
+/YuGothic-Light
+/YuGothicUI-Light
+/YuGothic-Medium
+/YuGothicUI-Regular
+/YuGothic-Regular
+/YuGothicUI-Semilight
+/ZWAdobeF
+/AdobeArabic-Bold
+/AdobeArabic-BoldItalic
+/AdobeArabic-Italic
+/AdobeArabic-Regular
+/AdobeDevanagari-Bold
+/AdobeDevanagari-BoldItalic
+/AdobeDevanagari-Italic
+/AdobeDevanagari-Regular
+/AdobeHebrew-Bold
+/AdobeHebrew-BoldItalic
+/AdobeHebrew-Italic
+/AdobeHebrew-Regular
+/AdobePiStd
+/AdobeThai-Bold
+/AdobeThai-BoldItalic
+/AdobeThai-Italic
+/AdobeThai-Regular
+/CourierStd-Bold
+/CourierStd-BoldOblique
+/CourierStd-Oblique
+/CourierStd
+/MinionPro-Bold
+/MinionPro-BoldIt
+/MinionPro-It
+/MinionPro-Regular
+/MyriadArabic-Bold
+/MyriadArabic-BoldIt
+/MyriadArabic-It
+/MyriadArabic-Regular
+/MyriadHebrew-Bold
+/MyriadHebrew-BoldIt
+/MyriadHebrew-It
+/MyriadHebrew-Regular
+/MyriadPro-Bold
+/MyriadPro-BoldIt
+/MyriadPro-It
+/MyriadPro-Regular
+/Symbol
+/AdobeSansMM
+/AdobeSerifMM
+/Courier-BoldOblique
+/Courier-Bold
+/Courier
+/Courier-Oblique
+/AppleGothic
+/AppleMyungjo
+/Beijing
+/DFKaiShu-SB-Estd-BF
+/FutoGoB101-Bold
+/FutoMinA101-Bold
+/GothicBBB-Medium
+/GothicMB101-Bold
+/GothicMB101-hea
+/GothicMB101-Ult
+/HeiseiKakuGo-W3
+/HeiseiKakuGo-W5
+/HeiseiKakuGo-W7
+/HeiseiKakuGo-W9
+/HeiseiMaruGo-W4
+/HeiseiMin-W3
+/HeiseiMin-W3H
+/HeiseiMin-W5
+/HeiseiMin-W7
+/HeiseiMin-W9
+/HonMincho-M
+/HYGoThic-Medium
+/HYGungSo-Bold
+/HYKHeadLine-Bold
+/HYKHeadLine-Medium
+/HYRGoThic-Medium
+/HYSMyeongJo-Medium
+/JCfg
+/JCkg
+/Jun101-Light
+/Jun34-Medium
+/Jun501-Bold
+/KozMin-Bold
+/KozMin-ExtraLight
+/KozMin-Heavy
+/KozMin-Light
+/KozMin-Medium
+/KozMin-Regular
+/KyokaICA-Light
+/KyokaICA-Medium
+/KyokaICA-regular
+/LiGothicMed
+/LiSungLight
+/LogoArl-Bold
+/LogoArl-Light
+/LogoArl-Medium
+/LogoArl-Ultra
+/LogoCut-Bold
+/LogoCut-Light
+/LogoCut-Medium
+/LogoCut-Ultra
+/LogoLine-Bold
+/LogoLine-Light
+/LogoLine-Medium
+/LogoLine-Ultra
+/MaruGothic-M
+/MHei-Medium
+/MidashiGo-MB31
+/MidashiMin-MA31
+/MKai-Medium
+/MSung-Light
+/MSung-Medium
+/Munhwa-Regular
+/MunhwaGothic-Regular
+/Osaka
+/Osaka-Mono
+/Ryumin-Bold
+/Ryumin-heavy
+/Ryumin-Light
+/Ryumin-Medium
+/Ryumin-regular
+/Ryumin-Ultra
+/Seoul
+/ShinGo-Bold
+/ShinGo-Light
+/ShinGo-Medium
+/ShinGo-regular
+/ShinGo-Ultra
+/ShinseiKai-CBSK1
+/SIL-FangSong-
+/SIL-FangSong-Reg-Jian
+/SIL-Hei-Med-Jian
+/SIL-Kai-
+/SIL-Kai-Reg-Jian
+/SIL-Song-Reg-Jian
+/SMGothic-Bold
+/SMGothic-DemiBold
+/SMGothic-Light
+/SMGothic-Medium
+/SMMyungjo-Bold
+/SMMyungjo-DemiBold
+/SMMyungjo-Light
+/SMMyungjo-Medium
+/STFangsong-Light
+/STHeiti-Regular
+/STKaiti-Regular
+/STSong-Light
+/Taipei
+/TBKomachiG-B
+/TBKomachiG-DB
+/TBKomachiG-E
+/TBKomachiG-hv
+/TBKomachiG-M
+/TBKomachiG-R
+/TBKomachiM-DE
+/TBKomachiM-E
+/TBKomachiM-hv
+/TBKomachiM-M
+/TBKomachiRG-R
+/TBKoudoukenG-B
+/TBKoudoukenG-DB
+/TBKoudoukenG-E
+/TBKoudoukenG-hv
+/TBKoudoukenG-M
+/TBKoudoukenG-R
+/TBKoudoukenM-DE
+/TBKoudoukenM-E
+/TBKoudoukenM-hv
+/TBKoudoukenM-M
+/TBKoudoukenRG-R
+/TBRyokanG-B
+/TBRyokanG-DB
+/TBRyokanG-E
+/TBRyokanG-hv
+/TBRyokanG-M
+/TBRyokanG-R
+/TBRyokanM-DE
+/TBRyokanM-E
+/TBRyokanM-hv
+/TBRyokanM-M
+/TBRyokanRG-R
+/TBTsukijiG-B
+/TBTsukijiG-DB
+/TBTsukijiG-E
+/TBTsukijiG-hv
+/TBTsukijiG-M
+/TBTsukijiG-R
+/TBTsukijiM-DE
+/TBTsukijiM-E
+/TBTsukijiM-hv
+/TBTsukijiM-M
+/TBTsukijiRG-R
+/TBYukinariG-B
+/TBYukinariG-DB
+/TBYukinariG-E
+/TBYukinariG-hv
+/TBYukinariG-M
+/TBYukinariG-R
+/TBYukinariM-DE
+/TBYukinariM-E
+/TBYukinariM-hv
+/TBYukinariM-M
+/TBYukinariRG-R
+/TypeBankG-b
+/TypeBankG-db
+/TypeBankG-e
+/TypeBankG-hv
+/TypeBankG-m
+/TypeBankG-r
+/TypeBankM-de
+/TypeBankM-e
+/TypeBankM-hv
+/TypeBankM-m
+/TypeBankMaruG-r
+/CGBM-PropRoman
+/ChuGothicBBB-Medium-PropRoman
+/FutoMinA101-Bold-PropRoman
+/HeiseiKakuGothic-W5-PropRoman
+/HeiseiMincho-W3-PropRoman
+/HonMincho-M-PropRoman
+/HYFix
+/JL-PropRoman
+/Jun101-Light-PropRoman
+/MaruGothic-M-PropRoman
+/MidashiMin-MA31-PropRoman
+/Mincho-PC-Hiragana
+/Mincho-PC-Katakana
+/MMMA-PropRoman
+/NotDefFont
+/Osaka-MonoRoman
+/Osaka-PropRoman
+/RLKL-PropRoman
+/Ryumin-Light-KL-PropRoman
+/SMFix
+
+Started: Thursday, 24 June 2021 at 19:08:34
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Thursday, 24 June 2021 at 20:22:09
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Friday, 25 June 2021 at 16:41:36
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Saturday, 26 June 2021 at 11:20:40
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Saturday, 26 June 2021 at 11:27:32
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Saturday, 26 June 2021 at 11:37:58
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Saturday, 26 June 2021 at 14:03:30
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 29 June 2021 at 12:00:47
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 29 June 2021 at 12:00:47
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 29 June 2021 at 14:47:58
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 29 June 2021 at 14:57:50
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 29 June 2021 at 18:05:27
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Thursday, 1 July 2021 at 08:29:40
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Friday, 2 July 2021 at 08:23:07
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Friday, 2 July 2021 at 08:29:57
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Friday, 2 July 2021 at 12:05:57
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Monday, 5 July 2021 at 13:57:49
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Monday, 5 July 2021 at 13:57:49
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Monday, 5 July 2021 at 14:03:38
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Monday, 5 July 2021 at 14:03:39
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Monday, 5 July 2021 at 14:12:22
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Tuesday, 6 July 2021 at 14:53:46
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Wednesday, 7 July 2021 at 15:54:20
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Wednesday, 7 July 2021 at 16:39:47
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Wednesday, 7 July 2021 at 16:45:30
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Thursday, 8 July 2021 at 09:17:03
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
+
+Started: Thursday, 8 July 2021 at 09:26:56
+
+Adobe PostScript software version: 3018.101
+CID support library initialization completed.
